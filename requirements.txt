@@ -77,7 +77,7 @@ scikit-learn
 scipy 
 seaborn 
 Send2Trash 
-sip==4.19.13
+sip
 six 
 sniffio 
 terminado==0.9.4
