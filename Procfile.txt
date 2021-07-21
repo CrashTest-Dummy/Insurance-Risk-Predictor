@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser app.ipynb
+web: voila --port=$PORT --no-browser C964-Insurance-Risk-Predictor.ipynb
