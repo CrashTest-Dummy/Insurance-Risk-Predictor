@@ -20,5 +20,4 @@ scikit-learn
 scipy 
 seaborn 
 voila
-widgetsnbextension 
-
+widgetsnbextension
